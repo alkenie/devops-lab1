@@ -1,1 +1,3 @@
- print("Hello DevOps from alkenie and luv u")
+# Added by alkenie for lab task
+print("Hello DevOps from alkenie")
+
